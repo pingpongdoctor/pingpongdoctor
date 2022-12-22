@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Capstone Project**
 
-- 👨‍💻 Connect with me [https://www.linkedin.com/in/simon-tran1501/](https://www.linkedin.com/in/simon-tran1501/)
+- 👨‍💻 Connect with me [Linkedin](https://www.linkedin.com/in/simon-tran1501/)
 
 - 📫 How to reach me **thanhnhantran1501@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/3/my-drive](https://drive.google.com/drive/u/3/my-drive)
+- 📄 Know about my experiences [My resume](https://drive.google.com/drive/u/3/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
