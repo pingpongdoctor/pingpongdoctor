@@ -21,16 +21,16 @@ This project is about building a website to help users designing their own diets
 
 ![](https://github.com/pingpongdoctor/capstone-frontend/blob/recipes-list-page/demo.gif)
 
-Tech Stack Frontend
-- React JS
+### Tech Stack Frontend
+- React JS.
 - React Component - React Components are applied to create reuseable components and create multi-view single pages.
 - Slick Library - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
 - Chart.js Library - React components for Chart.js is one of the most popular charting libraries. The website uses the Pie chart and the Line chart from this library.
 - Fitness Calculator Library - This library helps perform calculations for your BMI, BMR, calorie needs, total daily energy expenditure, macros and much more.
 - Cloudinary - Cloudinary is used to store the recipe images posted from frontend.
 
-- Tech Stack Backend
+### Tech Stack Backend
 - JWT token - JWT token helps authenticating users.
-- Node.js
-- Express - Express framework is used to build endpoints for tables
+- Node.js.
+- Express - Express framework is used to build endpoints from SQL tables.
 - Knex library - Knex is a SQL query builder that helps form SQL table by using javascript codes and query data from SQL tables such as user data, macro data, recipe data and comment data.
