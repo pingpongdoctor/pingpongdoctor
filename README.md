@@ -21,7 +21,7 @@ Links to [Frontend](https://github.com/pingpongdoctor/capstone-frontend) | [Back
 
 This project is about building a website to help users designing their own diets quickly and effortlessly. Users can calculate their suitable macronutrient ratios and diversify their dishes by refering to the recipe library. All pages are responsive in different breakpoints such as mobile, tablet and desktop breakpoints.
 
-![](https://github.com/pingpongdoctor/capstone-frontend/blob/recipes-list-page/demo.gif)
+![](https://github.com/pingpongdoctor/capstone-frontend/blob/main/demo.gif)
 
 ### Tech Stack Frontend
 - React JS.
