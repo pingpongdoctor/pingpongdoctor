@@ -47,3 +47,8 @@ Since the website authenticating users by using JWT token, you have to log in to
 
 - Email: simon@gmail.com | Password: 123456Aa@
 - Email: greg@gmail.com | Password: 123456Aa@
+
+## Links
+
+- Link to [Frontend](https://github.com/pingpongdoctor/capstone-frontend)
+- Link to [Backend](https://github.com/pingpongdoctor/capstone-backend)
