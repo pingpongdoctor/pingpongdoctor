@@ -43,12 +43,7 @@ This project is about building a website to help users designing their own diets
 
 ## Log in accounts
 
-Since the website authenticating users by using JWT token, you have to log in to use the full website's functions. There are two accounts below
+Since the website authenticates users by using JWT token, you have to log in to use the full website's functions. There are two accounts below
 
 - Email: simon@gmail.com | Password: 123456Aa@
 - Email: greg@gmail.com | Password: 123456Aa@
-
-## Links
-
-- Link to [Frontend](https://github.com/pingpongdoctor/capstone-frontend)
-- Link to [Backend](https://github.com/pingpongdoctor/capstone-backend)
