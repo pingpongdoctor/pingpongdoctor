@@ -23,16 +23,27 @@ This project is about building a website to help users designing their own diets
 
 ![](https://github.com/pingpongdoctor/capstone-frontend/blob/main/demo.gif)
 
-### Tech Stack Frontend
+## Tech Stack Frontend
+
 - React JS.
 - React Component - React Components are applied to create reuseable components and create multi-view single pages.
 - Slick Library - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
 - Chart.js Library - React components for Chart.js is one of the most popular charting libraries. The website uses the Pie chart and the Line chart from this library.
 - Fitness Calculator Library - This library helps perform calculations for your BMI, BMR, calorie needs, total daily energy expenditure, macros and much more.
 - Cloudinary - Cloudinary is used to store the recipe images posted from frontend.
+- Sha256 Library - This library is used to hash email and password on the front end to protect users from being hacked.
 
-### Tech Stack Backend
+## Tech Stack Backend
+
 - JWT token - JWT token helps authenticating users.
-- Node.js.
-- Express - Express framework is used to build endpoints from SQL tables.
+- Node.js
+- Express - Express framework is used to build endpoints for the backend and to apply libraries.
 - Knex library - Knex is a SQL query builder that helps form SQL table by using javascript codes and query data from SQL tables such as user data, macro data, recipe data and comment data.
+- Bcrypt Library - The encrypted password on frontend is again encrypted on the backend by using the bcrypt library. This immensly enhance the security level for the website.
+
+## Log in accounts
+
+Since the website authenticating users by using JWT token, you have to log in to use the full website's functions. There are two accounts below
+
+- Email: simon@gmail.com | Password: 123456Aa@
+- Email: greg@gmail.com | Password: 123456Aa@
