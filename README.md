@@ -37,7 +37,7 @@ This project is about building a website to help users designing their own diets
 
 - JWT token - JWT token helps authenticating users.
 - Node.js
-- Express - Express framework is used to to deploy libraries and apply routes on the index.js file.
+- Express - Express framework is used to to create routes, deploy libraries and apply routes on the index.js file.
 - REST API - Use REST API for building endpoints to fetch data.
 - MySQL Workbench - This is a visual tool that helps build, query, and manage SQL databases.
 - Knex library - Knex is a SQL query builder that query data from SQL tables such as user data, macro data, recipe data and comment data.
