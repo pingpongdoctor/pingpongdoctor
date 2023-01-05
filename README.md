@@ -57,31 +57,33 @@ Links to [Frontend](https://github.com/pingpongdoctor/BrainFlix/tree/main) | [Ba
 
 This project is about building a website that provides a video streaming platform that allows video sharing, video commenting, and placeholder video posting.
 
+![](https://github.com/pingpongdoctor/BrainFlix-api/blob/main/BrainFlix.gif)
+
 ## Tech Stack Frontend
 
-- ReactJS and React Components - build the multi-view site on the Frontend
-- React Router Dom Library
-- React Hooks
-- SASS
-- BEM
+- ReactJS and React Components - build the multi-view site on the Frontend.
+- React Router Dom Library.
+- React Hooks.
+- SASS.
+- BEM.
 
 ## Tech Stack Backend
-- NodeJS and Express - handle the whole Backend
-- Multer library
-- REST API -  build multiple endpoints
+- NodeJS and Express - handle the whole Backend.
+- Multer library.
+- REST API -  build multiple endpoints.
 
 ## BandSite
 https://bandsite-platform.netlify.app/
 
 Links to [Frontend](https://github.com/pingpongdoctor/BandSite/tree/main)
 
-This project is about building a website that provides a video streaming platform that allows video sharing, video commenting, and placeholder video posting.
+This project is about building a website with the topic of up-and-coming music bands. The website is beautifully designed and responsive on multiple breakpoints.
 
 ## Tech Stack Frontend
 
-- JavaScript
-- CSS
-- HTML
-- RestAPI
-- SASS
-- BEM
+- JavaScript.
+- CSS.
+- HTML.
+- REST API.
+- SASS.
+- BEM.
