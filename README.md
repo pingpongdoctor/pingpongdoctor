@@ -17,7 +17,7 @@
 ## Build Your Diet
 https://buildyourdiet.netlify.app/
 
-Links to [Frontend](https://github.com/pingpongdoctor/capstone-frontend) | [Backend](https://github.com/pingpongdoctor/capstone-backend)
+Links to [Frontend](https://github.com/pingpongdoctor/capstone-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/capstone-backend/tree/main)
 
 This project is about building a website to help users designing their own diets quickly and effortlessly. Users can calculate their suitable macronutrient ratios and diversify their dishes by refering to the recipe library. All pages are responsive in different breakpoints such as mobile, tablet and desktop breakpoints.
 
@@ -49,3 +49,25 @@ Since the website authenticates users by using JWT token, you have to log in to 
 
 - Email: simon@gmail.com | Password: 123456Aa@
 - Email: greg@gmail.com | Password: 123456Aa@
+
+## BrainFlix
+https://brainflix-platform.netlify.app/
+
+Links to [Frontend](https://github.com/pingpongdoctor/BrainFlix/tree/main) | [Backend](https://github.com/pingpongdoctor/BrainFlix-api/tree/main)
+
+This project is about building a website that provides a video streaming platform that allows video sharing, video commenting, and placeholder video posting.
+
+![](https://github.com/pingpongdoctor/BrainFlix-api/blob/main/BrainFlix.gif)
+
+## Tech Stack Frontend
+
+- ReactJS and React Components - build the multi-view site on the Frontend
+- React Router Dom Library
+- React Hooks
+- SASS
+- BEM
+
+## Tech Stack Backend
+- NodeJS and Express - handle the whole Backend
+- Multer library
+- REST API -  build multiple endpoints
