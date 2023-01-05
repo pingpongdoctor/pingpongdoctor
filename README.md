@@ -71,3 +71,21 @@ This project is about building a website that provides a video streaming platfor
 - NodeJS and Express - handle the whole Backend
 - Multer library
 - REST API -  build multiple endpoints
+
+## BandSite
+https://bandsite-platform.netlify.app/
+
+Links to [Frontend](https://github.com/pingpongdoctor/BandSite/tree/main)
+
+This project is about building a website that provides a video streaming platform that allows video sharing, video commenting, and placeholder video posting.
+
+![](https://github.com/pingpongdoctor/BrainFlix-api/blob/main/BrainFlix.gif)
+
+## Tech Stack Frontend
+
+- JavaScript
+- CSS
+- HTML
+- RestAPI
+- SASS
+- BEM
