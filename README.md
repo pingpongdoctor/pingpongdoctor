@@ -57,6 +57,8 @@ Links to [Frontend](https://github.com/pingpongdoctor/BrainFlix/tree/main) | [Ba
 
 This project is about building a website that provides a video streaming platform that allows video sharing, video commenting, and placeholder video posting.
 
+![](https://github.com/pingpongdoctor/BrainFlix-api/blob/main/BrainFlix.gif)
+
 ## Tech Stack Frontend
 
 - ReactJS and React Components - build the multi-view site on the Frontend
