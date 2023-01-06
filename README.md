@@ -79,6 +79,8 @@ Links to [Frontend](https://github.com/pingpongdoctor/BandSite/tree/main)
 
 This project is about building a website with the topic of up-and-coming music bands. The website is beautifully designed and responsive on multiple breakpoints.
 
+![](https://github.com/pingpongdoctor/BandSite/blob/main/BandSite.gif)
+
 ## Tech Stack Frontend
 
 - JavaScript.
