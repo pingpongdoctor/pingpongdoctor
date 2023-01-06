@@ -26,22 +26,22 @@ This project is about building a website to help users designing their own diets
 ## Tech Stack Frontend
 
 - React JS.
-- React Component - React Components are applied to create reusable components and create multi-view single pages.
+- React Component
 - Slick Library - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
 - Chart.js Library - React components for Chart.js is one of the most popular charting libraries. The website uses the Pie chart and the Line chart from this library.
 - Fitness Calculator Library - This library helps perform calculations for your BMI, BMR, total daily energy expenditure, and so on.
-- Cloudinary - Cloudinary is used to store the recipe images posted from frontend.
-- Sha256 Library - This library is used to hash email and password on the front end to protect users from being hacked.
+- Cloudinary
+- Sha256 Library - This library is used to hash email and password on the frontend to protect users from being hacked.
 
 ## Tech Stack Backend
 
-- JWT token - JWT token helps authenticating users.
+- JWT token
 - Node.js
-- Express - Express framework is used to to create routes, deploy libraries and apply routes on the index.js file.
-- REST API - Use REST API for building endpoints to fetch data.
-- MySQL Workbench - This is a visual tool is used to build, and manage relational databases.
-- Knex library - Knex is applied to query databases such as user data, macro data, recipe data and comment data.
-- Bcrypt Library - The encrypted password and email on frontend are again encrypted on the backend by using the bcrypt library. This immensly enhance the security level for the website.
+- Express
+- REST API
+- MySQL Workbench
+- Knex library
+- Bcrypt Library - This library is used to hash email and password on the backend.
 
 ## Log in accounts
 
@@ -63,14 +63,13 @@ This project is about building a website that provides a video streaming platfor
 
 - ReactJS and React Components - build the multi-view site on the Frontend.
 - React Router Dom Library.
-- React Hooks.
 - SASS.
 - BEM.
 
 ## Tech Stack Backend
 - NodeJS and Express - handle the whole Backend.
 - Multer library.
-- REST API -  build multiple endpoints.
+- REST API
 
 ## BandSite
 https://bandsite-platform.netlify.app/
