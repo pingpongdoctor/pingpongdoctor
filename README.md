@@ -17,7 +17,7 @@
 ## Build Your Diet
 https://buildyourdiet.netlify.app/
 
-Links to [Frontend](https://github.com/pingpongdoctor/capstone-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/capstone-backend/tree/main)
+[Frontend](https://github.com/pingpongdoctor/capstone-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/capstone-backend/tree/main)
 
 This project is about building a website to help users designing their own diets quickly and effortlessly. Users can calculate their suitable macronutrient ratios and diversify their dishes by refering to the recipe library. All pages are responsive in different breakpoints such as mobile, tablet and desktop breakpoints.
 
@@ -53,7 +53,7 @@ Since the website authenticates users by using JWT token, you have to log in to 
 ## BrainFlix
 https://brainflix-platform.netlify.app/
 
-Links to [Frontend](https://github.com/pingpongdoctor/BrainFlix/tree/main) | [Backend](https://github.com/pingpongdoctor/BrainFlix-api/tree/main)
+[Frontend](https://github.com/pingpongdoctor/BrainFlix/tree/main) | [Backend](https://github.com/pingpongdoctor/BrainFlix-api/tree/main)
 
 This project is about building a website that provides a video streaming platform that allows video sharing, video commenting, and placeholder video posting.
 
@@ -75,7 +75,7 @@ This project is about building a website that provides a video streaming platfor
 ## BandSite
 https://bandsite-platform.netlify.app/
 
-Links to [Frontend](https://github.com/pingpongdoctor/BandSite/tree/main)
+[Frontend](https://github.com/pingpongdoctor/BandSite/tree/main)
 
 This project is about building a website with the topic of up-and-coming music bands. The website is beautifully designed and responsive on multiple breakpoints.
 
