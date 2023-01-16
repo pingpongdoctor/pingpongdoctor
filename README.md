@@ -15,7 +15,7 @@
 
 # My projects
 ## Build Your Diet
-https://buildyourdiet.netlify.app/
+[Deployment link](https://buildyourdiet.netlify.app/)
 
 [Frontend](https://github.com/pingpongdoctor/capstone-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/capstone-backend/tree/main)
 
@@ -52,7 +52,7 @@ Since the website authenticates users by using JWT token, you have to log in to 
 - Email: greg@gmail.com | Password: 123456Aa@
 
 ## BrainFlix
-### [Deployment link](https://brainflix-platform.netlify.app/)
+[Deployment link](https://brainflix-platform.netlify.app/)
 
 [Frontend](https://github.com/pingpongdoctor/BrainFlix/tree/main) | [Backend](https://github.com/pingpongdoctor/BrainFlix-api/tree/main)
 
@@ -73,7 +73,7 @@ This project is about building a website that provides a video streaming platfor
 - REST API
 
 ## BandSite
-https://bandsite-platform.netlify.app/
+[Deployment link](https://bandsite-platform.netlify.app/)
 
 [Frontend](https://github.com/pingpongdoctor/BandSite/tree/main)
 
