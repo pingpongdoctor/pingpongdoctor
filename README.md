@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">Full-stack developer who codes and fixes bugs as same as a doctor treats patients dedicatedly</h3>
 
-- 🔭 I’m currently working on **Capstone Project**
-
 - 👨‍💻 Connect with me [Linkedin](https://www.linkedin.com/in/simon-tran1501/)
 
 - 📫 How to reach me **thanhnhantran1501@gmail.com**
