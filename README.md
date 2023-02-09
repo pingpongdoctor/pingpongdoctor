@@ -49,7 +49,7 @@ Since the website authenticates users by using JWT token, you have to log in to 
 - Email: simon@gmail.com | Password: 123456Aa@
 - Email: greg@gmail.com | Password: 123456Aa@
 
-## Simon Profile
+## Simon Portfolio
 [Deployment link](https://simonprofile.netlify.app)
 
 [Frontend](https://github.com/pingpongdoctor/profile-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/profile-backend/tree/main)
