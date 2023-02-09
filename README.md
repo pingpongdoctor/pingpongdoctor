@@ -54,7 +54,7 @@ Since the website authenticates users by using JWT token, you have to log in to 
 
 [Frontend](https://github.com/pingpongdoctor/profile-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/profile-backend/tree/main)
 
-Simon Profile project is a MERN application that helps you know more about me, take a look at my projects and contact me easily. All pages are responsive in different breakpoints such as mobile, tablet and desktop breakpoints.
+Simon Portfolio project is a MERN application that helps you know more about me, take a look at my projects and contact me easily. All pages are responsive in different breakpoints such as mobile, tablet and desktop breakpoints.
 
 ![](https://github.com/pingpongdoctor/profile-frontend/blob/dev/profile-project.gif)
 
