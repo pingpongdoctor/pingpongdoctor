@@ -21,7 +21,7 @@ This project is about building a website to help users designing their own diets
 
 ![](https://github.com/pingpongdoctor/capstone-frontend/blob/main/demo.gif)
 
-## Tech Stack Frontend
+### Tech Stack Frontend
 
 - ReactJS.
 - React Component
@@ -32,7 +32,7 @@ This project is about building a website to help users designing their own diets
 - Sha256 - This library is used to hash email and password on the frontend to protect users from being hacked.
 - Material UI
 
-## Tech Stack Backend
+### Tech Stack Backend
 
 - JWT token
 - Node.js
@@ -58,7 +58,7 @@ Simon Profile project is a MERN application that helps you know more about me, t
 
 ![](https://github.com/pingpongdoctor/profile-frontend/blob/dev/profile-project.gif)
 
-## Tech Stack Frontend
+### Tech Stack Frontend
 
 - ReactJS.
 - AOS
@@ -66,7 +66,7 @@ Simon Profile project is a MERN application that helps you know more about me, t
 - MUI Material
 - EmailJS
 
-## Tech Stack Backend
+### Tech Stack Backend
 
 - JWT token
 - Node.js
@@ -83,14 +83,14 @@ This project is about building a website that provides a video streaming platfor
 
 ![](https://github.com/pingpongdoctor/BrainFlix-api/blob/main/BrainFlix.gif)
 
-## Tech Stack Frontend
+### Tech Stack Frontend
 
 - ReactJS and React Components - build the multi-view site on the Frontend.
 - React Router Dom Library.
 - SASS.
 - BEM.
 
-## Tech Stack Backend
+### Tech Stack Backend
 - Node.js and ExpressJS - handle the whole Backend.
 - Multer library.
 - REST API
@@ -104,7 +104,7 @@ This project is about building a website with the topic of up-and-coming music b
 
 ![](https://github.com/pingpongdoctor/BandSite/blob/main/BandSite.gif)
 
-## Tech Stack Frontend
+### Tech Stack Frontend
 
 - JavaScript.
 - CSS.
