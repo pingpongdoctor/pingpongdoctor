@@ -60,7 +60,7 @@ Simon Profile project is a MERN application that helps you know more about me, t
 
 ### Tech Stack Frontend
 
-- ReactJS.
+- ReactJS
 - AOS
 - React Type Animation
 - MUI Material
@@ -68,7 +68,6 @@ Simon Profile project is a MERN application that helps you know more about me, t
 
 ### Tech Stack Backend
 
-- JWT token
 - Node.js
 - ExpressJS
 - MongoDB + Mongoose
