@@ -42,13 +42,6 @@ This project is about building a website to help users designing their own diets
 - KnexJS
 - Bcrypt - This library is used to hash email and password on the backend.
 
-## Log in accounts
-
-Since the website authenticates users by using JWT token, you have to log in to use the full website's feature. There are two available accounts below for you or you can sign up for a new account.
-
-- Email: simon@gmail.com | Password: 123456Aa@
-- Email: greg@gmail.com | Password: 123456Aa@
-
 ## Simon Portfolio
 [Deployment link](https://simonprofile.netlify.app)
 
@@ -84,14 +77,14 @@ This project is about building a website that provides a video streaming platfor
 
 ### Tech Stack Frontend
 
-- ReactJS and React Components - build the multi-view site on the Frontend.
-- React Router Dom Library.
-- SASS.
-- BEM.
+- ReactJS and React Components - build the multi-view site on the Frontend
+- React Router Dom Library
+- SASS
+- BEM
 
 ### Tech Stack Backend
-- Node.js and ExpressJS - handle the whole Backend.
-- Multer library.
+- Node.js and ExpressJS - handle the whole Backend
+- Multer library
 - REST API
 
 ## BandSite
@@ -105,9 +98,9 @@ This project is about building a website with the topic of up-and-coming music b
 
 ### Tech Stack Frontend
 
-- JavaScript.
-- CSS.
-- HTML.
-- REST API.
-- SASS.
-- BEM.
+- JavaScript
+- CSS
+- HTML
+- REST API
+- SASS
+- BEM
