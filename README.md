@@ -23,22 +23,22 @@ This project is about building a website to help users designing their own diets
 
 ### Tech Stack Frontend
 
-- ReactJS.
+- React
 - React Component
-- SlickJS - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
+- React-slick - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
 - ChartJS - Chart.js is one of the most popular charting libraries. The website uses the Pie chart and the Line chart from this library.
 - Fitness Calculator Library - This library helps perform calculations for your BMI, BMR, total daily energy expenditure, and so on.
 - Cloudinary
 - Sha256 - This library is used to hash email and password on the frontend to protect users from being hacked.
-- Material UI
+- Material-UI
 
 ### Tech Stack Backend
 
-- JWT token
+- JWT
 - Node.js
 - ExpressJS
 - REST API
-- MySQL Workbench
+- MySQL
 - KnexJS
 - Bcrypt - This library is used to hash email and password on the backend.
 
@@ -53,7 +53,7 @@ Simon Portfolio project is a MERN application that helps you know more about me,
 
 ### Tech Stack Frontend
 
-- ReactJS
+- React
 - AOS
 - React Type Animation
 - MUI Material
@@ -63,7 +63,8 @@ Simon Portfolio project is a MERN application that helps you know more about me,
 
 - Node.js
 - ExpressJS
-- MongoDB + Mongoose
+- MongoDB
+- Mongoose
 - REST API
 
 ## Love Your Pets
@@ -97,14 +98,15 @@ This project is about building a website that provides a video streaming platfor
 
 ### Tech Stack Frontend
 
-- ReactJS and React Components - build the multi-view site on the Frontend
+- React and React Components - build the multi-view site on the Frontend
 - React Router Dom Library
 - SASS
 - BEM
 
 ### Tech Stack Backend
-- Node.js and ExpressJS - handle the whole Backend
+- Node.js
 - Multer library
+- ExpressJS
 - REST API
 
 ## BandSite
@@ -122,5 +124,3 @@ This project is about building a website with the topic of up-and-coming music b
 - CSS
 - HTML
 - REST API
-- SASS
-- BEM
