@@ -66,6 +66,26 @@ Simon Portfolio project is a MERN application that helps you know more about me,
 - MongoDB + Mongoose
 - REST API
 
+## Love Your Pets
+[Deployment link](https://love-your-pets.netlify.app/)
+
+[Frontend](https://github.com/pingpongdoctor/pets-redux-app/tree/main)
+
+Manage pet ownership and facilitate searches for nearby veterinary health centers.
+
+I gained valuable experience working with Redux and Redux Toolkit, react-google-map, browser's local storage, as well as the Google Maps API and its libraries. I utilized components, props, and methods to render maps, implement location searches, and display detailed information and directions for nearby places.
+
+### Tech Stack Frontend
+
+- React
+- Redux
+- React-Redux
+- Redux Toolkit
+- Google Map API
+- React-google-maps/api
+- HTML5 Geolocation API
+- React-icons
+
 ## BrainFlix
 [Deployment link](https://brainflix-platform.netlify.app/)
 
