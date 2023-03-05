@@ -76,7 +76,7 @@ Manage pet ownership and facilitate searches for nearby veterinary health center
 
 I gained valuable experience working with Redux and Redux Toolkit, react-google-map, browser's local storage, as well as the Google Maps API and its libraries. I utilized components, props, and methods to render maps, implement location searches, and display detailed information and directions for nearby places.
 
-![](https://github.com/pingpongdoctor/pets-redux-app/blob/dev/src/assets/pictures/Screen%20Shot%202023-03-02%20at%207.37.00%20PM.png)
+![](https://github.com/pingpongdoctor/profile-frontend/blob/dev/src/assets/images/Love-Pet.gif)
 
 ### Tech Stack Frontend
 
