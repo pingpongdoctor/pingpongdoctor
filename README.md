@@ -87,6 +87,7 @@ I gained valuable experience working with Redux and Redux Toolkit, react-google-
 - Google Map API
 - React-google-maps/api
 - HTML5 Geolocation API
+- React-spinners-kit
 - React-icons
 
 ## BrainFlix
