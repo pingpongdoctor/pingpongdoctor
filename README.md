@@ -87,7 +87,8 @@ I gained valuable experience working with Redux and Redux Toolkit, react-google-
 - Google Map API
 - React-google-maps/api
 - HTML5 Geolocation API
-- React-spinners-kit
+- React-spinners-kit - use already built loading components from this library
+- React-player - provides a pre-built player component supporting a variety of media formats
 - React-icons
 
 ## BrainFlix
