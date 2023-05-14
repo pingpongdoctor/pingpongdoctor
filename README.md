@@ -25,7 +25,7 @@
       height="40"
     />
   </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" width="80" height="40"/></a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -56,9 +56,9 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
       alt="express"
-      width="40"
+      width="80"
       height="40"
       style={{ backgroundColor: "green" }}
     />
