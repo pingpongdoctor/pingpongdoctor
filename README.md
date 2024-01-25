@@ -191,12 +191,14 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - Auth0
 - Sendgrid
 - Sanity CMS
+- Storybook
 
 ### Tech Stack Backend
 - REST API
 - MySQL
 - Prisma
 - PlanetScale
+- Ngrok
 
 ## Build Your Diet
 [Deployment link](https://buildyourdiet.netlify.app/)
