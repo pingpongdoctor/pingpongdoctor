@@ -162,9 +162,8 @@
   </a>
 </p>
 
-
-
 # My projects
+
 ## GLowy Lab
 [Deployment link](https://ecommerece-app-for-thao.vercel.app/)
 
@@ -175,7 +174,6 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 ![](https://res.cloudinary.com/dtdzvyf4s/image/upload/v1706208265/glowy_nshjip.gif)
 
 ### Tech Stack Frontend
-
 - Next.js
 - React
 - TypeScript
@@ -193,7 +191,6 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - Sanity CMS
 
 ### Tech Stack Backend
-
 - REST API
 - MySQL
 - Prisma
@@ -209,25 +206,22 @@ This project is about building a website to help users designing their own diets
 ![](https://github.com/pingpongdoctor/capstone-frontend/blob/main/demo.gif)
 
 ### Tech Stack Frontend
-
 - React
-- React Component
 - React-slick - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
-- ChartJS - Chart.js is one of the most popular charting libraries. The website uses the Pie chart and the Line chart from this library.
-- Fitness Calculator Library - This library helps perform calculations for your BMI, BMR, total daily energy expenditure, and so on.
+- ChartJS
+- Fitness Calculator Library
 - Cloudinary
-- Sha256 - This library is used to hash email and password on the frontend to protect users from being hacked.
+- Sha256
 - Material-UI
 
 ### Tech Stack Backend
-
 - JWT
-- Node.js
-- ExpressJS
+- Node
+- Express
 - REST API
 - MySQL
 - KnexJS
-- Bcrypt - This library is used to hash email and password on the backend.
+- Bcrypt
 
 ## Simon Portfolio
 [Deployment link](https://simonprofile.netlify.app)
@@ -239,7 +233,6 @@ Simon Portfolio project is a MERN application that helps you know more about me,
 ![](https://github.com/pingpongdoctor/profile-frontend/blob/dev/profile-project.gif)
 
 ### Tech Stack Frontend
-
 - React
 - AOS
 - React Type Animation
@@ -247,9 +240,8 @@ Simon Portfolio project is a MERN application that helps you know more about me,
 - EmailJS
 
 ### Tech Stack Backend
-
-- Node.js
-- ExpressJS
+- Node
+- Express
 - MongoDB
 - Mongoose
 - REST API
@@ -266,7 +258,6 @@ I gained valuable experience working with Redux and Redux Toolkit, react-google-
 ![](https://github.com/pingpongdoctor/profile-frontend/blob/dev/src/assets/images/Love-Pet.gif)
 
 ### Tech Stack Frontend
-
 - React
 - Redux
 - React-Redux
@@ -274,8 +265,8 @@ I gained valuable experience working with Redux and Redux Toolkit, react-google-
 - Google Map API
 - React-google-maps/api
 - HTML5 Geolocation API
-- React-spinners-kit - use already built loading components from this library
-- React-player - provides a pre-built player component supporting a variety of media formats
+- React-spinners-kit
+- React-player
 - React-icons
 
 ## BrainFlix
@@ -288,17 +279,16 @@ This project is about building a website that provides a video streaming platfor
 ![](https://github.com/pingpongdoctor/BrainFlix-api/blob/main/BrainFlix.gif)
 
 ### Tech Stack Frontend
-
-- React and React Components - build the multi-view site on the Frontend
-- React Router Dom Library
+- React
+- React Router Dom
 - SASS
 - BEM
 
 ### Tech Stack Backend
-- Node.js
-- Multer library
-- ExpressJS
+- Node
+- Express
 - REST API
+- Multer
 
 ## BandSite
 [Deployment link](https://bandsite-platform.netlify.app/)
@@ -310,7 +300,6 @@ This project is about building a website with the topic of up-and-coming music b
 ![](https://github.com/pingpongdoctor/BandSite/blob/main/BandSite.gif)
 
 ### Tech Stack Frontend
-
 - JavaScript
 - CSS
 - HTML
