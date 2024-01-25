@@ -172,7 +172,7 @@
 
 Discover unparalleled quality and convenience at our Canadian E-commerce hub, where we curate and offer the finest selection of products.
 
-![](https://res.cloudinary.com/dtdzvyf4s/image/upload/v1706208037/glowy_dievu3.gif)
+![](https://res.cloudinary.com/dtdzvyf4s/image/upload/v1706208265/glowy_nshjip.gif)
 
 ### Tech Stack Frontend
 
