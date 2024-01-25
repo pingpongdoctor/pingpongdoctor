@@ -165,6 +165,40 @@
 
 
 # My projects
+## GLowy Lab
+[Deployment link](https://ecommerece-app-for-thao.vercel.app/)
+
+[GitHub Repo](https://github.com/pingpongdoctor/eccommerce-app)
+
+Discover unparalleled quality and convenience at our Canadian E-commerce hub, where we curate and offer the finest selection of products.
+
+![](https://res.cloudinary.com/dtdzvyf4s/image/upload/v1706208037/glowy_dievu3.gif)
+
+### Tech Stack Frontend
+
+- Next.js
+- React
+- TypeScript
+- Tailwind
+- Headless UI
+- Tailwind UI
+- Flowbite UI
+- Material-Tailwind UI
+- Heroicons
+- React Context API
+- Husky
+- Lint-staged
+- Auth0
+- Sendgrid
+- Sanity CMS
+
+### Tech Stack Backend
+
+- REST API
+- MySQL
+- Prisma
+- PlanetScale
+
 ## Build Your Diet
 [Deployment link](https://buildyourdiet.netlify.app/)
 
