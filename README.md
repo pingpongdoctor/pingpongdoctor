@@ -181,20 +181,20 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - TypeScript
 - Tailwind
 - React Context API
+- Sanity - a modern headless CMS that helps manage heavy content
 - Auth0 - an IAM provider that facilitates OAuth 2.0 and Open ID Connect integration
 - Headless UI, Tailwind UI, Flowbite UI and Material-Tailwind UI
 - Heroicons
-- Sendgrid - a SMTP provider
-- Sanity - a modern headless CMS that helps manage heavy content
 - Husky
 - Lint-staged
 
 ### Tech Stack Backend
-- REST API
 - MySQL
 - Prisma
 - PlanetScale - MySQL-compatible serverless database platform
+- REST API
 - Ngrok - a reverse proxy that creates a secured tunnel between the local server and the internet, facilitating web hook testing
+- Sendgrid - a SMTP provider
 
 ### Testing Libraries
 - Jest
