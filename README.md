@@ -197,8 +197,13 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - REST API
 - MySQL
 - Prisma
-- PlanetScale
-- Ngrok
+- PlanetScale - MySQL-compatible serverless database platform
+- Ngrok - a reverse proxy that creates a secured tunnel between the local server and the internet, facilitating web hook testing
+
+### Testing Libraries
+- Jest
+- React Testing Library
+- Mswjs - Mocking API Library
 
 ## Build Your Diet
 [Deployment link](https://buildyourdiet.netlify.app/)
