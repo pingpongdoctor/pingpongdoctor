@@ -180,18 +180,14 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - React
 - TypeScript
 - Tailwind
-- Headless UI
-- Tailwind UI
-- Flowbite UI
-- Material-Tailwind UI
-- Heroicons
 - React Context API
+- Auth0 - an IAM provider that facilitates OAuth 2.0 and Open ID Connect integration
+- Headless UI, Tailwind UI, Flowbite UI and Material-Tailwind UI
+- Heroicons
+- Sendgrid - a SMTP provider
+- Sanity - a modern headless CMS that helps manage heavy content
 - Husky
 - Lint-staged
-- Auth0
-- Sendgrid
-- Sanity CMS
-- Storybook
 
 ### Tech Stack Backend
 - REST API
@@ -204,6 +200,7 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - Jest
 - React Testing Library
 - Mswjs - Mocking API Library
+- Storybook
 
 ## Build Your Diet
 [Deployment link](https://buildyourdiet.netlify.app/)
