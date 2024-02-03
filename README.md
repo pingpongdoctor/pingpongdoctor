@@ -195,6 +195,7 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - REST API
 - Ngrok - a reverse proxy that creates a secured tunnel between the local server and the internet, facilitating web hook testing
 - Sendgrid - a SMTP provider
+- Stripe - implement online payment
 
 ### Testing Libraries
 - Jest
