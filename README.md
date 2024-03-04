@@ -196,6 +196,8 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - Ngrok - a reverse proxy that creates a secured tunnel between the local server and the internet, facilitating web hook testing
 - Sendgrid - a SMTP provider
 - Stripe - implement online payment
+- Redis - save temporary data
+- Upstash - severless platform that helps manage Redis database in serverless environment
 
 ### Testing Libraries
 - Jest
