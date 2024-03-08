@@ -199,6 +199,7 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - Stripe - implement online payment
 - Redis - save temporary data
 - Upstash - severless platform that helps manage Redis database in serverless environment
+- Pusher -  create realtime communication between servers and clients
 
 ### Testing Libraries
 - Jest
