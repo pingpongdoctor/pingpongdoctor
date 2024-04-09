@@ -167,7 +167,7 @@
 
 # My projects
 
-## GLowy Lab
+## GLowy Lab (Beta)
 [Deployment link](https://ecommerece-app-for-thao.vercel.app/)
 
 [GitHub Repo](https://github.com/pingpongdoctor/eccommerce-app)
