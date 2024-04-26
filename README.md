@@ -167,7 +167,7 @@
 
 # My projects
 
-## GLowy Lab (Beta)
+## GLowy Lab
 [Deployment link](https://ecommerece-app-for-thao.vercel.app/)
 
 [GitHub Repo](https://github.com/pingpongdoctor/eccommerce-app)
@@ -184,7 +184,7 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - React Context API
 - Sanity - a modern headless CMS that helps manage heavy content
 - Auth0 - an IAM provider that facilitates OAuth 2.0 and Open ID Connect integration
-- Headless UI, Tailwind UI, Flowbite UI and Material-Tailwind UI
+- Headless UI, Tailwind UI, Flowbite UI, Material-Tailwind UI and Aceternity UI
 - Heroicons
 - Husky
 - Lint-staged
