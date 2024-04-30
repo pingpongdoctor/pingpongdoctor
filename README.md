@@ -183,22 +183,21 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - Tailwind
 - React Context API
 - Sanity - a modern headless CMS that helps manage heavy content
-- Auth0 - an IAM provider that facilitates OAuth 2.0 and Open ID Connect integration
 - Headless UI, Tailwind UI, Flowbite UI, Material-Tailwind UI and Aceternity UI
 - Heroicons
 - Husky
 - Lint-staged
 
 ### Tech Stack Backend
-- MySQL
-- Prisma
-- PlanetScale - MySQL-compatible serverless database platform
-- REST API
+- Auth0 - an IAM provider that facilitates OAuth 2.0 and Open ID Connect integration
+- PostgreSQL database (hosted on Supabase)
+- Prisma - ORM
 - Ngrok - a reverse proxy that creates a secured tunnel between the local server and the internet, facilitating web hook testing
-- Sendgrid - a SMTP provider
-- Stripe - implement online payment
-- Upstash - severless platform that helps manage Redis database in serverless environment
-- Pusher -  create realtime communication between servers and clients
+- Sendgrid API - a SMTP provider
+- Stripe SDK - implement online payment
+- Upstash SDK - severless platform that helps manage Redis database in serverless environment
+- Pusher SDK - create bi-directional and realtime communication between servers and clients
+- REST API
 
 ### Testing Libraries
 - Jest
