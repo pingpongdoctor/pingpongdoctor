@@ -182,7 +182,7 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - TypeScript
 - Tailwind
 - React Context API
-- Sanity - a modern headless CMS that helps manage heavy content
+- Sanity- a modern Headless CMS that helps manage heavy content
 - Headless UI, Tailwind UI, Flowbite UI, Material-Tailwind UI and Aceternity UI
 - Heroicons
 - Husky
