@@ -205,6 +205,33 @@ Discover unparalleled quality and convenience at our Canadian E-commerce hub, wh
 - Mswjs - Mocking API Library
 - Storybook
 
+## Build Your Diet
+[Deployment link](https://buildyourdiet.netlify.app/)
+
+[Frontend](https://github.com/pingpongdoctor/capstone-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/capstone-backend/tree/main)
+
+This project is about building a website to help users designing their own diets quickly and effortlessly. Users can calculate their suitable macronutrient ratios and diversify their dishes by refering to the recipe library. All pages are responsive in different breakpoints such as mobile, tablet and desktop breakpoints.
+
+![](https://github.com/pingpongdoctor/capstone-frontend/blob/main/demo.gif)
+
+### Tech Stack Frontend
+- React
+- React-slick - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
+- ChartJS
+- Fitness Calculator Library
+- Cloudinary
+- Sha256
+- Material-UI
+
+### Tech Stack Backend
+- JWT
+- Node
+- Express
+- REST API
+- MySQL
+- KnexJS
+- Bcrypt
+
 ## Simon Portfolio
 [Deployment link](https://simonprofile.netlify.app)
 
@@ -286,30 +313,3 @@ This project is about building a website with the topic of up-and-coming music b
 - CSS
 - HTML
 - REST API
-
-## Build Your Diet
-[Deployment link](https://buildyourdiet.netlify.app/)
-
-[Frontend](https://github.com/pingpongdoctor/capstone-frontend/tree/main) | [Backend](https://github.com/pingpongdoctor/capstone-backend/tree/main)
-
-This project is about building a website to help users designing their own diets quickly and effortlessly. Users can calculate their suitable macronutrient ratios and diversify their dishes by refering to the recipe library. All pages are responsive in different breakpoints such as mobile, tablet and desktop breakpoints.
-
-![](https://github.com/pingpongdoctor/capstone-frontend/blob/main/demo.gif)
-
-### Tech Stack Frontend
-- React
-- React-slick - React slick is a carousel component built with React. The homepage has an image carousel that is built by using this library.
-- ChartJS
-- Fitness Calculator Library
-- Cloudinary
-- Sha256
-- Material-UI
-
-### Tech Stack Backend
-- JWT
-- Node
-- Express
-- REST API
-- MySQL
-- KnexJS
-- Bcrypt
