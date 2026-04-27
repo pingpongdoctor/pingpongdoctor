@@ -8,7 +8,7 @@
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/14hLthsIoN-QhKOxbnR2YQmrRpNhl7sBo/view?usp=share_link)
 
 <h3 align="left">Languages and Tools:</h3>
-    <div style="display: flex; justify-content: space-between;">
+    <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
         <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
                 src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"
                 alt="nextjs" width="80" height="40" /></a>
