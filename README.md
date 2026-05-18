@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thanhnhantran1501@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/14hLthsIoN-QhKOxbnR2YQmrRpNhl7sBo/view?usp=share_link)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1d4U-vDVon0RfGlsyWM2czyDadax9AikS/view?usp=sharing)
 
 
 # 💻 Tech Stack:
