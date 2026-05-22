@@ -13,6 +13,63 @@
 
 # My projects
 
+## Vancooler
+[Deployment link](https://www.van-cooler.shop/)
+
+[GitHub Repo](https://github.com/shiang723/2800-202610-BBY19)
+
+Our team build a dynamic web application that helps commuters find real-time shade while navigating the city. Unlike static maps, our app will provide a shadow-aware experience, visualizing where shadows fall across Vancouver. This app is useful because temperatures are reaching record highs in the summer months, and long-term exposure to UV rays and heat can cause health issues.
+
+![](https://lh3.googleusercontent.com/u/0/d/1ey9AiVufDh0csjG9uKiP94nH-gXEAjxf)
+
+### Tech Stack Frontend
+- React.js
+- Next.js
+- Typescript
+- Tailwind
+### Tech Stack Backend
+- PostgreSQL
+- Supabase Auth
+- Supabase Edge Functions and Triggers
+- Resend (Simple Mail Transfer Protocol)
+- Map Libre, ShadeMap, OpenWeather, and Vancouver Open Data APIs
+### Others
+- Git
+- Gitflow workflow
+- Trello
+- Figma
+- Agile methodology
+- Scrum
+
+## Guide19
+[Deployment link](https://pg19-7adba.firebaseapp.com/index.html)
+
+[GitHub Repo](https://github.com/pingpongdoctor/1800_202610_BBY-19)
+
+Our team built a gamified web app encouraging walking in Vancouver during FIFA World Cup events. Users earn points through location-based challenges and spend them on country-themed UI skins.
+
+![](https://drive.google.com/uc?export=view&id=1HLl2qe0MfZm3_ENyuFBM_F22Z08_ixB_)
+
+### Tech Stack Frontend
+- Javascript
+- CSS
+- Boostrap
+- Vite
+
+### Tech Stack Backend
+- Firestore
+- Firebase Auth
+- Geolocation API
+- Map Libre GL API
+
+### Others
+- Git
+- Gitflow workflow
+- Trello
+- Figma
+- Agile methodology
+- Scrum
+
 ## GLowy Lab
 [Deployment link](https://ecommerece-app-for-thao.vercel.app)
 
