@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simon</h1>
+<h1 align="center">Hi 👋, I am Thanh Nhan Tran (Simon)</h1>
 <h3 align="center">Full-stack developer who codes and fixes bugs as same as a doctor treats patients dedicatedly</h3>
 
 - 👨‍💻 Connect with me [Linkedin](https://www.linkedin.com/in/simon-tran1501/)
