@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I am Thanh Nhan Tran (Simon)</h1>
-<h3 align="center">Full-stack developer who codes and fixes bugs as same as a doctor treats patients dedicatedly</h3>
+<h1 align="center">Hi 👋, I am Thanh Nhan Tran (Simon).</h1>
+<h3 align="center">Software Engineer passionate about building well-maintained and scalable applications.</h3>
 
 - 👨‍💻 Connect with me [Linkedin](https://www.linkedin.com/in/simon-tran1501/)
 
 - 📫 How to reach me **thanhnhantran1501@gmail.com**
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1d4U-vDVon0RfGlsyWM2czyDadax9AikS/view?usp=sharing)
-
-- My projects [Portfolio](https://simonportfoliosite.netlify.app/)
 
 
 # 💻 Tech Stack:
